@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Calculator Extension",
+  "version": "0.1.0",
+  "description": "My Chrome Extension",
+  "action": {
+    "default_title": "Calculator Extension SvelteKit",
+    "default_popup": "index.html"
+  },
+  "permissions": [
+    "storage"
+  ]
+}
